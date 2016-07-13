@@ -2,6 +2,8 @@
 
 **First Day**
 
+Time | Session
+--- | ---
 09:00 - 10:30 | Introduction to Data Science and Machine Learning
 10:30 - 10:45 | Coffee Break
 10:45 - 12:00 | Cleaning, Pre-Processing and Analyzing Data
@@ -15,6 +17,8 @@
 
 **Second Day**
 
+Time | Session
+--- | ---
 09:00 - 10:15 | Classification with Decision Trees 
 10:15 - 10:30 | Coffee Break
 10:30 - 12:00 | Clustering and Dimensionality Reduction
@@ -24,4 +28,3 @@
 14:30 - 15:30 | Expert Talk - Day of a Data Scientist at LinkedIn
 15:30 - 16:30 | AMA (Ask me Anything) with Mariah
 16:30 - 17:00 | Closing Session
-
