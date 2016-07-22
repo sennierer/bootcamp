@@ -9,6 +9,6 @@ else
 fi
 source py2-env/bin/activate
 #pip install #--upgrade pip
-pip install ipython numpy jupyter statistics matplotlib pandas seaborn scipy scikit-learn sympy plotly wordcloud pillow mlxtend SPARQLWrapper #--upgrade
+pip install ipython numpy jupyter statistics matplotlib pandas seaborn scipy scikit-learn sympy plotly wordcloud pillow mlxtend SPARQLWrapper graphviz #--upgrade
 #pip install https://storage.googleapis.com/tensorflow/mac/tensorflow-0.8.0-py2-none-any.whl
 jupyter notebook
